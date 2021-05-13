@@ -1,0 +1,12 @@
+from tkinter import *
+from tkinter.ttk import *
+
+from time import strftime
+
+root=TK()
+root.title("clock")
+
+label=Label(root, font=(r"C:\Users\mrithunraj\Downloads\ds_digital.zip",80),backround="black",fore="cyan")
+label.pack(anchor='center')
+
+def time
